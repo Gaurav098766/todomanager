@@ -8,10 +8,12 @@ Deploy Link: https://todomanagerintern.netlify.app/
 
 #### Features:
 i) Added filter of Pending and Completed Task
+
 ii) User Friendly UI
 
 #### Future Improvements:
 i) Search task by name or date : Will make add a filter by search(name) and filter by date to add this functionality.
+
 ii) Use of React Context API to avoid prop-drilling.
 
 
